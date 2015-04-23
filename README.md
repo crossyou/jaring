@@ -1,0 +1,2 @@
+# jaring
+Personal Javascript Library
